@@ -74,8 +74,8 @@ class Villain extends Character {
 
 }
 
-const merlin = new Hero("Obelisk")
-const medea = new Hero("Asterix")
+const merlin = new Hero("Merlin")
+const medea = new Hero("Medea")
 const troll = new Villain("Troll", 'I will destroy your soul!')
 
 
